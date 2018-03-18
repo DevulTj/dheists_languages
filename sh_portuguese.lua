@@ -31,7 +31,7 @@ i18n.registerPhrases( "pt", {
     picking_up_mask = "APANHANDO MÁSCARA",
     dropping_mask = "LARGANDO MÁSCARA",
     equipping_mask = "EQUIPANDO MÁSCARA",
-    un_equipping_mask = "UN-EQUIPPING MASK",
+    un_equipping_mask = "REMOVENDO MÁSCAR",
     zone_being_robbed = "%s está a ser roubado!",
     click_to_disable_alarm = "Desativar Alarme",
     cctv_title = "CCTV",
